@@ -9,11 +9,11 @@ Link for chrome: https://chromewebstore.google.com/detail/bitwarden-password-man
 
 **Select self-hosted under your email address.**
 
-![](Screenshot From 2025-01-22 13-54-38.png)
+![](./Attachments/p1.png)
 
 Enter `passwords.yta.app` and press `Save` button.
 
-![](Screenshot From 2025-01-22 13-56-42.png)
+![](./Attachments/p2.png)
 
 ## Mobile and desktop apps
 
